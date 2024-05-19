@@ -149,8 +149,7 @@ Ensuite, on a testé les opérations `convert`, `getAccount` et `getAccounts` av
 
 #### Génération du Stub à partir du WSDL
 
-[Jakarta EE: Web Services (JAX-WS)]: https://plugins.jetbrains.com/plugin/18584-jakarta-ee-web-services-jax-ws-?_ga=2.131091087.1063697870.1716075447-137925824.1678353276&_gl=1%2A1pypp69%2A_ga%2AMTM3OTI1ODI0LjE2NzgzNTMyNzY.%2A_ga_9J976DJZ68%2AMTcxNjA3NTQ0Ni4xOC4xLjE3MTYwNzU3MDguNTAuMC4w
-Dans intelliJ IDEA, le plugin JAX-WS permet de générer le Stub à partir du WSDL.
+Dans intelliJ IDEA, le plugin [Jakarta EE: Web Services (JAX-WS)](https://plugins.jetbrains.com/plugin/18584-jakarta-ee-web-services-jax-ws-?_ga=2.131091087.1063697870.1716075447-137925824.1678353276&_gl=1%2A1pypp69%2A_ga%2AMTM3OTI1ODI0LjE2NzgzNTMyNzY.%2A_ga_9J976DJZ68%2AMTcxNjA3NTQ0Ni4xOC4xLjE3MTYwNzU3MDguNTAuMC4w) permet de générer le Stub à partir du WSDL.
 
 On ouvre l'outil: Tools | XML WebServices and WSDL | Generate Java Code From WSDL
 
